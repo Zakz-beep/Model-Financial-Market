@@ -1,0 +1,7 @@
+STEP 1          STEP 2          STEP 3          STEP 4          STEP 5
+──────────      ──────────      ──────────      ──────────      ──────────
+Kumpulkan   →  Bersihkan   →  Validasi    →  Fit Model   →  Generate
+Data            Data            Data            (GARCH/HAR)     Forecast
+(2-5 tahun)     (Adjust,        (Stasioner,     dengan data     1-4 minggu
+                missing,        clustering,     panjang         ke depan
+                outlier)        fat tails)
